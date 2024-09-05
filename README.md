@@ -28,3 +28,6 @@ This repository contains a Python-based interactive chatbot UI using Flet and sp
    ```bash
    python app.py
 2. Open the provided URL in your web browser to interact with the chatbot.
+
+
+![chatbot](https://github.com/user-attachments/assets/d7253631-4b59-4c5d-ab0c-c290dfe623e0)
