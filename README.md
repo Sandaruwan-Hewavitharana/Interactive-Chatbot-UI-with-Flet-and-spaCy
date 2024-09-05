@@ -8,11 +8,11 @@ Responsive design 📱
 Predefined responses for common conversational intents 💬
 🔧 Installation
 1. Clone the repository
-bash
-Copy code
+ 
 git clone https://github.com/your-username/chatbot-ui-flet-spacy.git
 cd chatbot-ui-flet-spacy
-2. Install Dependencies
+
+3. Install Dependencies
 Ensure you have Python installed, and then install the required libraries:
 
 bash
