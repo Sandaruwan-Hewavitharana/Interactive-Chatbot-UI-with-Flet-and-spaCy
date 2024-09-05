@@ -14,3 +14,17 @@ This repository contains a Python-based interactive chatbot UI using Flet and sp
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Interactive-Chatbot-UI-with-Flet-and-spaCy.git
+2. Navigate to the project directory:
+   ```bash
+   cd Interactive-Chatbot-UI-with-Flet-and-spaCy
+3. Install the required dependencies
+   ```bash
+   pip install flet spacy
+   python -m spacy download en_core_web_sm
+
+## Usage
+
+1. Run the application:
+   ```bash
+   python app.py
+2. Open the provided URL in your web browser to interact with the chatbot.
